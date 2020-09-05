@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files/Haskell Platform/8.4.3/mingw/include/c++/7.2.0",
+                "C:/Program Files/Haskell Platform/8.4.3/mingw/include/c++/7.2.0/x86_64-w64-mingw32"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "\"C:\\Program Files\\HaskellPlatform\\8.4.3\\mingw\\bin\\c++.exe\"",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
